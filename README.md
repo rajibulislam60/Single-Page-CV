@@ -1,18 +1,23 @@
+# Single Page CV
 
-## 📝 How to Use
-1. Download or clone the project files.
-2. Open the `index.html` file in any browser.
-3. Customize the CV content (name, skills, education, links, etc.) if needed.
+This project is a simple **single-page CV** created using **only HTML**.
 
-## 🧑‍💻 Author
-**Md. Rajibul Islam Rajib**  
-Frontend Developer  
-- Email: rajibulislam60707877@gmail.com  
-- GitHub: https://github.com/rajibulislam60  
-- LinkedIn: https://www.linkedin.com/in/rajibulislam60707877
+## 🔗 Project URL
+Live URL: https://single-page-cv-gamma.vercel.app/
 
-## Project link
-- Link : https://single-page-cv-gamma.vercel.app/
+## 📌 Description
+This is a basic single-file CV webpage built with pure HTML, containing:
+- Header (Name, Title, Contact)
+- Skills section
+- Education section
+- Experience section
+- Social links section
 
-## ✔️ License
-This project is free to use for learning or personal resume creation.
+No CSS or JavaScript has been used, as per project requirements.
+
+## 📂 Files Included
+- `index.html` — The main CV page
+- `README.md` — Project documentation
+
+## 👤 Author
+Md. Rajibul Islam Rajib
